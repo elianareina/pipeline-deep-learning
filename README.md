@@ -63,3 +63,7 @@ Se utilizó PyTorch versión 2.11.0+cpu.
 ### Hiperparámetro learning_rate
 
 El modelo fue entrenado utilizando un learning_rate de 0.001.
+
+### Interpretación de la curva de pérdida
+
+La curva de pérdida muestra una disminución progresiva durante las épocas de entrenamiento, indicando que el modelo logró aprender los patrones de los datos y mejorar su desempeño.
