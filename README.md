@@ -43,12 +43,13 @@ Accuracy
 
 La pérdida disminuye durante las épocas, indicando que el modelo aprende correctamente.
 
-## Tecnologías
+## Tecnologías utilizadas
 
-- Python
-- PyTorch
-- Scikit-Learn
-- Matplotlib
+- **Python:** lenguaje utilizado para el desarrollo del proyecto.
+- **PyTorch:** framework utilizado para la construcción y entrenamiento de la red neuronal.
+- **Scikit-Learn:** utilizado para la carga del dataset Iris, división de datos y normalización.
+- **Pandas y NumPy:** utilizados para manipulación y procesamiento de datos.
+- **Matplotlib:** utilizado para visualizar la evolución de la función de pérdida durante el entrenamiento.
 
 ## Estructura
 
