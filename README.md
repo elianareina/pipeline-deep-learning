@@ -67,3 +67,11 @@ El modelo fue entrenado utilizando un learning_rate de 0.001.
 ### Interpretación de la curva de pérdida
 
 La curva de pérdida muestra una disminución progresiva durante las épocas de entrenamiento, indicando que el modelo logró aprender los patrones de los datos y mejorar su desempeño.
+
+## Conclusiones
+
+Se desarrolló un pipeline de Deep Learning utilizando el dataset Iris para realizar una clasificación multiclase.
+
+El modelo permitió clasificar las especies de flores a partir de sus características físicas, aplicando etapas de preparación de datos, división entre entrenamiento y validación, normalización y entrenamiento mediante PyTorch.
+
+Los resultados obtenidos muestran que el modelo logra identificar patrones entre las variables de entrada y las distintas categorías, demostrando la aplicación de redes neuronales en problemas de clasificación supervisada.
