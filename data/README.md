@@ -1,6 +1,6 @@
 # Dataset utilizado
 
-Para este proyecto se utilizó el dataset Iris incluido en la librería Scikit-Learn.
+Para este proyecto se utilizó el dataset Iris incluido en la librería Scikit-Learn. No requiere archivo externo ya que se carga mediante la función load_iris().
 
 ## Descripción
 
