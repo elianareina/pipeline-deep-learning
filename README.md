@@ -6,11 +6,18 @@ Eliana Reina
 
 ## Objetivo
 
-Construir un pipeline reproducible de entrenamiento y validación utilizando PyTorch.
+Este proyecto implementa un pipeline de Deep Learning utilizando PyTorch para resolver un problema de clasificación multiclase con el dataset Iris.
 
 ## Dataset
 
-Iris Dataset de Scikit-Learn.
+Se utilizó el dataset Iris disponible en Scikit-Learn.
+
+El dataset contiene 150 muestras pertenecientes a tres especies:
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
+
+Las variables predictoras corresponden a medidas del sépalo y pétalo.
 
 ## Arquitectura
 
